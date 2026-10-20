@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: activity
+  cancel-in-progress: false
+
 jobs:
   heatmap:
     runs-on: ubuntu-latest
