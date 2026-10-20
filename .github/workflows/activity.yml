@@ -22,12 +22,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 tools/heatmap.py "${{ github.repository_owner }}"
+      - name: Update the lately lists
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 tools/lately.py "${{ github.repository_owner }}"
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/activity-dark.svg assets/activity-light.svg
+          git add README.md assets/activity-dark.svg assets/activity-light.svg
           if ! git diff --cached --quiet; then
-            git commit -m "Update activity heatmap"
+            git commit -m "Update activity heatmap and lately lists"
             git push
           fi
