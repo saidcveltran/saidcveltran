@@ -7,6 +7,24 @@
 
 <p>
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/right-column-dark.svg">
+  <img src="assets/right-column-light.svg" alt="Ahora mismo: NormaWatch: Sumar más boletines autonómicos. aiskaron.com: Terminar la web que reúne mis proyectos. Kinora: Pulir la plantilla para animar personajes. Con qué trabajo: Datos abiertos: TypeScript, Node.js, Apify; Bots: Python, Discord; Juegos y animación: Godot, Blender; Web: Astro, Cloudflare" width="50%" align="right">
+</picture>
+</p>
+
+### Sobre mí
+
+AIskaron es el nombre de mis proyectos. Convierto boletines oficiales y webs públicas en datos limpios, listos para usar sin copiar nada a mano. En mis ratos libres hago bots para Discord, animaciones en Blender y juegos en Godot.
+
+### Contacto
+
+<p>
+<a href="https://github.com/saidcveltran"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-github-dark.svg"><img src="assets/contact-github-light.svg" alt="GitHub" width="23.5%"></picture></a><a href="https://apify.com/saidcveltran"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-apify-dark.svg"><img src="assets/contact-apify-light.svg" alt="Apify" width="23.5%"></picture></a><br>
+<a href="https://dev.to/saidcveltran"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-devto-dark.svg"><img src="assets/contact-devto-light.svg" alt="dev.to" width="23.5%"></picture></a><a href="https://www.producthunt.com/@saidcveltran"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-producthunt-dark.svg"><img src="assets/contact-producthunt-light.svg" alt="Product Hunt" width="23.5%"></picture></a>
+</p>
+
+<p>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
   <img src="assets/projects-light.svg" alt="Proyectos. NormaWatch (Publicado · v1.8.0): Te avisa cada día de lo nuevo en el BOE y en los boletines de Andalucía, Galicia y Cataluña. TypeScript · Apify; DUCKYS (Privado): Bot de música para Discord: /play, autoplay y panel web. Python; aiskaron.com (Próximamente): La web que reunirá todos mis proyectos en un solo sitio. Astro · Cloudflare; Kinora (En desarrollo): Plantilla de código abierto para animar personajes en Blender. Blender · Python" width="100%">
 </picture>
@@ -22,23 +40,32 @@
 - PR aceptado en [GeiserX/awesome-spain\#76](https://github.com/GeiserX/awesome-spain/pull/76): Añade normawatch-boe, un Actor de Apify que lista las nueva… · 2026-10-20
 <!-- lately-es:end -->
 
-## Con qué trabajo
-
-**Datos abiertos** — TypeScript, Node.js, Apify<br>
-**Bots** — Python, Discord<br>
-**Juegos y animación** — Godot, Blender<br>
-**Web** — Astro, Cloudflare
-
 <details id="english">
 <summary>English version</summary>
-
-I automate official sources and public data. I also make Discord bots and 3D games.
 
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <img src="assets/banner-light.svg" alt="AIskaron · @saidcveltran · Automatizo fuentes oficiales y datos públicos. También hago bots para Discord y juegos 3D." width="100%">
 </picture>
+</p>
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/right-column-en-dark.svg">
+  <img src="assets/right-column-en-light.svg" alt="Right now: NormaWatch: Add more regional gazettes. aiskaron.com: Finish the site that gathers my projects. Kinora: Polish the template for animating characters. What I work with: Open data: TypeScript, Node.js, Apify; Bots: Python, Discord; Games and animation: Godot, Blender; Web: Astro, Cloudflare" width="50%" align="right">
+</picture>
+</p>
+
+### About me
+
+AIskaron is the name of my projects. I turn official bulletins and public websites into clean data, ready to use without copying anything by hand. In my spare time I make Discord bots, Blender animations and Godot games.
+
+### Contact
+
+<p>
+<a href="https://github.com/saidcveltran"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-github-dark.svg"><img src="assets/contact-github-light.svg" alt="GitHub" width="23.5%"></picture></a><a href="https://apify.com/saidcveltran"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-apify-dark.svg"><img src="assets/contact-apify-light.svg" alt="Apify" width="23.5%"></picture></a><br>
+<a href="https://dev.to/saidcveltran"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-devto-dark.svg"><img src="assets/contact-devto-light.svg" alt="dev.to" width="23.5%"></picture></a><a href="https://www.producthunt.com/@saidcveltran"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-producthunt-dark.svg"><img src="assets/contact-producthunt-light.svg" alt="Product Hunt" width="23.5%"></picture></a>
 </p>
 
 <p>
@@ -50,19 +77,12 @@ I automate official sources and public data. I also make Discord bots and 3D gam
 
 <p align="center"><sub>NormaWatch: <a href="https://github.com/saidcveltran/normawatch-boe">repository</a> · <a href="https://apify.com/saidcveltran/normawatch-boe">Apify Store</a> · AIskaron is the name of my projects · <a href="https://dev.to/saidcveltran">dev.to</a></sub></p>
 
-### Lately
+## Lately
 
 <!-- lately-en:start -->
 - Release [normawatch-boe v1.8.0](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.8.0) · 2026-10-20
 - Merged PR to [GeiserX/awesome-spain\#78](https://github.com/GeiserX/awesome-spain/pull/78): Menciona el BOJA y el DOG en la entrada de normawatch-boe · 2026-10-20
 - Merged PR to [GeiserX/awesome-spain\#76](https://github.com/GeiserX/awesome-spain/pull/76): Añade normawatch-boe, un Actor de Apify que lista las nueva… · 2026-10-20
 <!-- lately-en:end -->
-
-### What I work with
-
-**Open data** — TypeScript, Node.js, Apify<br>
-**Bots** — Python, Discord<br>
-**Games and animation** — Godot, Blender<br>
-**Web** — Astro, Cloudflare
 
 </details>
