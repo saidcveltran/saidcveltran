@@ -8,7 +8,7 @@
 
 [Proyectos](#proyectos) · [Stack](#stack) · [Sobre mí](#sobre-mí) · [Actividad](#actividad) · [Contacto](#contacto)
 
-English version below, inside the collapsible section.
+Español · <a href="#english">English ↓</a>
 
 </div>
 
@@ -39,10 +39,7 @@ Todo lo que hago vive bajo el nombre **AIskaron**.
   </picture>
 </p>
 
-- **NormaWatch**: cada día, las nuevas disposiciones generales del BOE (y, opcionalmente, oposiciones y los boletines de Andalucía, Galicia y Cataluña) en JSON y tabla, con aviso opcional por email, Telegram o Slack. Solo metadatos y enlaces oficiales. [Código](https://github.com/saidcveltran/normawatch-boe) · [Apify Store](https://apify.com/saidcveltran/normawatch-boe)
-- **DUCKYS**: bot de música para Discord con `/play`, autoplay, muchos idiomas y panel web. El código es privado.
-- **aiskaron.com**: el sitio donde reuniré todo. Próximamente.
-- **Robots** y **Kinora**: en desarrollo, aún sin enlaces públicos.
+<p align="center"><b>NormaWatch</b>: <a href="https://github.com/saidcveltran/normawatch-boe">Código</a> · <a href="https://apify.com/saidcveltran/normawatch-boe">Apify Store</a></p>
 
 ## Stack
 
@@ -84,7 +81,7 @@ const saidcveltran = {
 
 Mi código está en [GitHub](https://github.com/saidcveltran) y mis Actors en la [Apify Store](https://apify.com/saidcveltran).
 
-<details>
+<details id="english">
 <summary><b>English version</b></summary>
 
 ### Projects
