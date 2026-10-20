@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="176" viewBox="0 0 800 176" role="img" aria-labelledby="t d" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
-<title id="t">503 contribuciones en el último año</title>
+<title id="t">529 contribuciones en el último año</title>
 <desc id="d">Mapa de calor de las contribuciones de saidcveltran en las últimas 52 semanas, en cinco niveles.</desc>
-<text x="4" y="20" font-size="14" fill="#59636E">503 contribuciones en el último año</text>
+<text x="4" y="20" font-size="14" fill="#59636E">529 contribuciones en el último año</text>
 <rect x="4" y="34" width="12" height="12" rx="2" fill="#EFF2F5"/>
 <rect x="4" y="49" width="12" height="12" rx="2" fill="#EFF2F5"/>
 <rect x="4" y="64" width="12" height="12" rx="2" fill="#EFF2F5"/>
@@ -331,8 +331,8 @@
 <rect x="694" y="94" width="12" height="12" rx="2" fill="#EFF2F5"/>
 <rect x="694" y="109" width="12" height="12" rx="2" fill="#EFF2F5"/>
 <rect x="694" y="124" width="12" height="12" rx="2" fill="#EFF2F5"/>
-<rect x="709" y="34" width="12" height="12" rx="2" fill="#EFF2F5"/>
-<rect x="709" y="49" width="12" height="12" rx="2" fill="#B6E8EE"/>
+<rect x="709" y="34" width="12" height="12" rx="2" fill="#B6E8EE"/>
+<rect x="709" y="49" width="12" height="12" rx="2" fill="#EFF2F5"/>
 <rect x="709" y="64" width="12" height="12" rx="2" fill="#EFF2F5"/>
 <rect x="709" y="79" width="12" height="12" rx="2" fill="#EFF2F5"/>
 <rect x="709" y="94" width="12" height="12" rx="2" fill="#EFF2F5"/>
@@ -368,7 +368,7 @@
 <rect x="769" y="124" width="12" height="12" rx="2" fill="#1E9AA8"/>
 <rect x="784" y="34" width="12" height="12" rx="2" fill="#6CCBD6"/>
 <rect x="784" y="49" width="12" height="12" rx="2" fill="#6CCBD6"/>
-<rect x="784" y="64" width="12" height="12" rx="2" fill="#1E9AA8"/>
+<rect x="784" y="64" width="12" height="12" rx="2" fill="#0B6E79"/>
 <text x="607" y="161" font-size="13" fill="#59636E">Menos</text>
 <rect x="653" y="150" width="12" height="12" rx="2" fill="#EFF2F5"/>
 <rect x="668" y="150" width="12" height="12" rx="2" fill="#B6E8EE"/>
