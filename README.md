@@ -19,19 +19,13 @@ Desarrollo herramientas de datos abiertos, bots y juegos.
 Cada día, las nuevas disposiciones del BOE y de los boletines de Andalucía, Galicia y Cataluña, en JSON y tabla, con aviso opcional.<br>
 <sub>TypeScript · Apify</sub>
 
----
-
 **DUCKYS** · Privado<br>
 Bot de música para Discord, con /play, autoplay y panel web.<br>
 <sub>Python</sub>
 
----
-
 **aiskaron.com** · Próximamente<br>
 El sitio donde reuniré todos los proyectos.<br>
 <sub>Astro · Cloudflare</sub>
-
----
 
 **Kinora** · En desarrollo<br>
 Plantilla de código abierto para animar personajes en Blender.<br>
@@ -53,8 +47,6 @@ Plantilla de código abierto para animar personajes en Blender.<br>
 
 <sub>Incluye los repos privados (solo el número). Se actualiza cada día.</sub>
 
----
-
 <details id="english">
 <summary>English version</summary>
 
@@ -66,19 +58,13 @@ I build open-data tools, bots and games. Projects under the name AIskaron · [Ap
 Every day, the new provisions of Spain's BOE and of the Andalucía, Galicia and Cataluña gazettes, as JSON and a table, with optional notices.<br>
 <sub>TypeScript · Apify</sub>
 
----
-
 **DUCKYS** · Private<br>
 A Discord music bot with /play, autoplay and a web panel.<br>
 <sub>Python</sub>
 
----
-
 **aiskaron.com** · Coming soon<br>
 The site where I will bring all the projects together.<br>
 <sub>Astro · Cloudflare</sub>
-
----
 
 **Kinora** · In development<br>
 An open-source template to animate characters in Blender.<br>
