@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 280" width="600" height="280" role="img" aria-labelledby="cduckysdarkt">
+<title id="cduckysdarkt">DUCKYS · Private. A Discord music bot with /play, autoplay and a web panel. Python</title>
+<defs>
+<clipPath id="cduckysdarkclip"><rect x="1" y="1" width="598" height="278" rx="16"/></clipPath>
+<linearGradient id="cduckysdarkline" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="0"><stop offset="0" stop-color="#1636B5"/><stop offset=".52" stop-color="#0AB8D8"/><stop offset="1" stop-color="#00E58C"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="598" height="278" rx="16" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+<rect x="0" y="0" width="600" height="5" fill="url(#cduckysdarkline)" clip-path="url(#cduckysdarkclip)"/>
+<g font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+<text x="36" y="86" font-size="40" font-weight="600" fill="#E6EDF3">DUCKYS</text>
+<rect x="429.1" y="52" width="134.9" height="40" rx="20" fill="#21262D" stroke="#3D444D" stroke-width="1.5"/>
+<circle cx="451.1" cy="72" r="6" fill="#9198A1"/>
+<text x="505.6" y="79" font-size="21" text-anchor="middle" fill="#E6EDF3">Private</text>
+<text x="36" y="144" font-size="26" fill="#E6EDF3">A Discord music bot with /play, autoplay</text>
+<text x="36" y="180" font-size="26" fill="#E6EDF3">and a web panel.</text>
+<text x="36" y="242" font-size="24" fill="#9198A1">Python</text>
+</g>
+</svg>

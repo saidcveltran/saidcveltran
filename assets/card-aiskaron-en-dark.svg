@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 280" width="600" height="280" role="img" aria-labelledby="caiskarondarkt">
+<title id="caiskarondarkt">aiskaron.com · Coming soon. The site where I will bring all the projects together. Astro · Cloudflare</title>
+<defs>
+<clipPath id="caiskarondarkclip"><rect x="1" y="1" width="598" height="278" rx="16"/></clipPath>
+<linearGradient id="caiskarondarkline" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="0"><stop offset="0" stop-color="#1636B5"/><stop offset=".52" stop-color="#0AB8D8"/><stop offset="1" stop-color="#00E58C"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="598" height="278" rx="16" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+<rect x="0" y="0" width="600" height="5" fill="url(#caiskarondarkline)" clip-path="url(#caiskarondarkclip)"/>
+<g font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+<text x="36" y="86" font-size="40" font-weight="600" fill="#E6EDF3">aiskaron.com</text>
+<rect x="382.7" y="52" width="181.3" height="40" rx="20" fill="#21262D" stroke="#3D444D" stroke-width="1.5"/>
+<circle cx="404.7" cy="72" r="6" fill="#0AB8D8"/>
+<text x="482.4" y="79" font-size="21" text-anchor="middle" fill="#E6EDF3">Coming soon</text>
+<text x="36" y="144" font-size="26" fill="#E6EDF3">The site where I will bring all the</text>
+<text x="36" y="180" font-size="26" fill="#E6EDF3">projects together.</text>
+<text x="36" y="242" font-size="24" fill="#9198A1">Astro · Cloudflare</text>
+</g>
+</svg>

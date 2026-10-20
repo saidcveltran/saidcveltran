@@ -1,37 +1,27 @@
-<div align="center">
-
+<p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
-  <img src="assets/logo-light.png" alt="Logo de AIskaron, el nombre bajo el que publico mis proyectos" width="120" height="123">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="AIskaron · saidcveltran · Datos abiertos, bots y juegos" width="100%">
 </picture>
+</p>
 
-# saidcveltran
-
-Desarrollo herramientas de datos abiertos, bots y juegos.
-
+<p align="center">
 Construyo herramientas para que los datos oficiales y públicos sean fáciles de buscar y de seguir con avisos. También hago bots de Discord y juegos y animación en 3D.
-
-<sub>Proyectos bajo el nombre AIskaron · [Apify Store](https://apify.com/saidcveltran) · [dev.to](https://dev.to/saidcveltran) · [English](#english)</sub>
-
-</div>
+<br><br>
+<sub>Proyectos bajo el nombre AIskaron · <a href="https://apify.com/saidcveltran">Apify Store</a> · <a href="https://dev.to/saidcveltran">dev.to</a> · <a href="#english">English</a></sub>
+</p>
 
 ## Proyectos
 
-**[NormaWatch](https://github.com/saidcveltran/normawatch-boe)** · Publicado · v1.8.0 · [Apify Store](https://apify.com/saidcveltran/normawatch-boe)<br>
-Cada día, las nuevas disposiciones del BOE y de los boletines de Andalucía, Galicia y Cataluña, en JSON y tabla, con aviso opcional. Ahora: más boletines autonómicos.<br>
-<sub>TypeScript · Apify</sub>
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-normawatch-dark.svg"><a href="https://github.com/saidcveltran/normawatch-boe"><img src="assets/card-normawatch-light.svg" alt="NormaWatch · Publicado · v1.8.0. Cada día, lo nuevo del BOE y los boletines de Andalucía, Galicia y Cataluña, con aviso. TypeScript · Apify" width="49.5%"></a></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-duckys-dark.svg"><img src="assets/card-duckys-light.svg" alt="DUCKYS · Privado. Bot de música para Discord, con /play, autoplay y panel web. Python" width="49.5%"></picture>
+<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-aiskaron-dark.svg"><img src="assets/card-aiskaron-light.svg" alt="aiskaron.com · Próximamente. El sitio donde reuniré todos los proyectos. Astro · Cloudflare" width="49.5%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kinora-dark.svg"><img src="assets/card-kinora-light.svg" alt="Kinora · En desarrollo. Plantilla de código abierto para animar personajes en Blender. Blender · Python" width="49.5%"></picture>
+</p>
 
-**DUCKYS** · Privado<br>
-Bot de música para Discord, con /play, autoplay y panel web.<br>
-<sub>Python</sub>
-
-**aiskaron.com** · Próximamente<br>
-El sitio donde reuniré todos los proyectos.<br>
-<sub>Astro · Cloudflare</sub>
-
-**Kinora** · En desarrollo<br>
-Plantilla de código abierto para animar personajes en Blender.<br>
-<sub>Blender · Python</sub>
+<sub>NormaWatch también está en la <a href="https://apify.com/saidcveltran/normawatch-boe">Apify Store</a>.</sub>
 
 ## Últimamente
 
@@ -48,37 +38,24 @@ Plantilla de código abierto para animar personajes en Blender.<br>
 **Juegos y animación** — Godot, Blender<br>
 **Web** — Astro, Cloudflare
 
-## Actividad
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Mapa de calor de las contribuciones de saidcveltran en el último año" width="100%">
-</picture>
-
-<sub>Incluye los repos privados (solo el número). Se actualiza cada día.</sub>
-
 <details id="english">
 <summary>English version</summary>
 
-I build tools that make official, public data easy to search and to follow with alerts. I also make Discord bots and 3D games and animation. Projects under the name AIskaron · [Apify Store](https://apify.com/saidcveltran) · [dev.to](https://dev.to/saidcveltran)
+I build tools that make official, public data easy to search and to follow with alerts. I also make Discord bots and 3D games and animation.
+
+<sub>Projects under the name AIskaron · <a href="https://apify.com/saidcveltran">Apify Store</a> · <a href="https://dev.to/saidcveltran">dev.to</a></sub>
 
 ### Projects
 
-**[NormaWatch](https://github.com/saidcveltran/normawatch-boe)** · Published · v1.8.0 · [Apify Store](https://apify.com/saidcveltran/normawatch-boe)<br>
-Every day, the new provisions of Spain's BOE and of the Andalucía, Galicia and Cataluña gazettes, as JSON and a table, with optional notices. Now: more regional gazettes.<br>
-<sub>TypeScript · Apify</sub>
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-normawatch-en-dark.svg"><a href="https://github.com/saidcveltran/normawatch-boe"><img src="assets/card-normawatch-en-light.svg" alt="NormaWatch · Published · v1.8.0. Every day, what is new in the BOE and the Andalucía, Galicia and Cataluña gazettes. TypeScript · Apify" width="49.5%"></a></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-duckys-en-dark.svg"><img src="assets/card-duckys-en-light.svg" alt="DUCKYS · Private. A Discord music bot with /play, autoplay and a web panel. Python" width="49.5%"></picture>
+<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-aiskaron-en-dark.svg"><img src="assets/card-aiskaron-en-light.svg" alt="aiskaron.com · Coming soon. The site where I will bring all the projects together. Astro · Cloudflare" width="49.5%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kinora-en-dark.svg"><img src="assets/card-kinora-en-light.svg" alt="Kinora · In development. An open-source template to animate characters in Blender. Blender · Python" width="49.5%"></picture>
+</p>
 
-**DUCKYS** · Private<br>
-A Discord music bot with /play, autoplay and a web panel.<br>
-<sub>Python</sub>
-
-**aiskaron.com** · Coming soon<br>
-The site where I will bring all the projects together.<br>
-<sub>Astro · Cloudflare</sub>
-
-**Kinora** · In development<br>
-An open-source template to animate characters in Blender.<br>
-<sub>Blender · Python</sub>
+<sub>NormaWatch is also on the <a href="https://apify.com/saidcveltran/normawatch-boe">Apify Store</a>.</sub>
 
 ### Lately
 
@@ -94,9 +71,5 @@ An open-source template to animate characters in Blender.<br>
 **Bots** — Python, Discord<br>
 **Games and animation** — Godot, Blender<br>
 **Web** — Astro, Cloudflare
-
-### Activity
-
-The heatmap above counts private repositories too (number only) and is updated every day.
 
 </details>

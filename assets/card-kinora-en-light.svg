@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 280" width="600" height="280" role="img" aria-labelledby="ckinoralightt">
+<title id="ckinoralightt">Kinora · In development. An open-source template to animate characters in Blender. Blender · Python</title>
+<defs>
+<clipPath id="ckinoralightclip"><rect x="1" y="1" width="598" height="278" rx="16"/></clipPath>
+<linearGradient id="ckinoralightline" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="0"><stop offset="0" stop-color="#1636B5"/><stop offset=".52" stop-color="#0A9FC4"/><stop offset="1" stop-color="#00BF78"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="598" height="278" rx="16" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="2"/>
+<rect x="0" y="0" width="600" height="5" fill="url(#ckinoralightline)" clip-path="url(#ckinoralightclip)"/>
+<g font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+<text x="36" y="86" font-size="40" font-weight="600" fill="#0D1117">Kinora</text>
+<rect x="354.6" y="52" width="209.4" height="40" rx="20" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.5"/>
+<circle cx="376.6" cy="72" r="6" fill="#0A9FC4"/>
+<text x="468.3" y="79" font-size="21" text-anchor="middle" fill="#0D1117">In development</text>
+<text x="36" y="144" font-size="26" fill="#0D1117">An open-source template to animate</text>
+<text x="36" y="180" font-size="26" fill="#0D1117">characters in Blender.</text>
+<text x="36" y="242" font-size="24" fill="#59636E">Blender · Python</text>
+</g>
+</svg>

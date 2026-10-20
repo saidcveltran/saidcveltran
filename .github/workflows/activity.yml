@@ -1,4 +1,4 @@
-name: activity
+name: lately
 
 on:
   schedule:
@@ -9,19 +9,15 @@ permissions:
   contents: write
 
 concurrency:
-  group: activity
+  group: lately
   cancel-in-progress: false
 
 jobs:
-  heatmap:
+  lately:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-      - name: Generate the heatmap
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 tools/heatmap.py "${{ github.repository_owner }}"
       - name: Update the lately lists
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -30,8 +26,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/activity-dark.svg assets/activity-light.svg
+          git add README.md
           if ! git diff --cached --quiet; then
-            git commit -m "Update activity heatmap and lately lists"
+            git commit -m "Update lately lists"
             git push
           fi
