@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
-  <img src="assets/logo-light.png" alt="Logo de AIskaron, el nombre bajo el que publico mis proyectos" width="120" height="120">
+  <img src="assets/logo-light.png" alt="Logo de AIskaron, el nombre bajo el que publico mis proyectos" width="120" height="123">
 </picture>
 
 # saidcveltran
