@@ -17,8 +17,8 @@ Construyo herramientas para que los datos oficiales y públicos sean fáciles de
 
 ## Proyectos
 
-**[NormaWatch](https://github.com/saidcveltran/normawatch-boe)** · Publicado · v1.8.0 · ampliándolo con más boletines autonómicos · [Apify Store](https://apify.com/saidcveltran/normawatch-boe)<br>
-Cada día, las nuevas disposiciones del BOE y de los boletines de Andalucía, Galicia y Cataluña, en JSON y tabla, con aviso opcional.<br>
+**[NormaWatch](https://github.com/saidcveltran/normawatch-boe)** · Publicado · v1.8.0 · [Apify Store](https://apify.com/saidcveltran/normawatch-boe)<br>
+Cada día, las nuevas disposiciones del BOE y de los boletines de Andalucía, Galicia y Cataluña, en JSON y tabla, con aviso opcional. Ahora: más boletines autonómicos.<br>
 <sub>TypeScript · Apify</sub>
 
 **DUCKYS** · Privado<br>
@@ -29,39 +29,17 @@ Bot de música para Discord, con /play, autoplay y panel web.<br>
 El sitio donde reuniré todos los proyectos.<br>
 <sub>Astro · Cloudflare</sub>
 
-**Kinora** · En desarrollo · plantilla para animar personajes<br>
+**Kinora** · En desarrollo<br>
 Plantilla de código abierto para animar personajes en Blender.<br>
 <sub>Blender · Python</sub>
 
 ## Últimamente
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Lanzamientos**
-
-<!-- releases:start -->
-- [normawatch-boe v1.8.0](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.8.0) – 2026-10-20
-- [normawatch-boe v1.7.0](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.7.0) – 2026-10-20
-- [normawatch-boe v1.6.0](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.6.0) – 2026-10-20
-- [normawatch-boe v1.5.3](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.5.3) – 2026-10-20
-- [normawatch-boe v1.5.2](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.5.2) – 2026-10-20
-<!-- releases:end -->
-
-</td>
-<td valign="top" width="50%">
-
-**Contribuciones**
-
-<!-- prs:start -->
-- [GeiserX/awesome-spain\#78](https://github.com/GeiserX/awesome-spain/pull/78) – Menciona el BOJA y el DOG en la entrada de normawatch-boe – 2026-10-20
-- [GeiserX/awesome-spain\#76](https://github.com/GeiserX/awesome-spain/pull/76) – Añade normawatch-boe, un Actor de Apify que lista las nuevas disposic… – 2026-10-20
-<!-- prs:end -->
-
-</td>
-</tr>
-</table>
+<!-- lately-es:start -->
+- Versión [normawatch-boe v1.8.0](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.8.0) · 2026-10-20
+- PR aceptado en [GeiserX/awesome-spain\#78](https://github.com/GeiserX/awesome-spain/pull/78): Menciona el BOJA y el DOG en la entrada de normawatch-boe · 2026-10-20
+- PR aceptado en [GeiserX/awesome-spain\#76](https://github.com/GeiserX/awesome-spain/pull/76): Añade normawatch-boe, un Actor de Apify que lista las nueva… · 2026-10-20
+<!-- lately-es:end -->
 
 ## Con qué trabajo
 
@@ -86,8 +64,8 @@ I build tools that make official, public data easy to search and to follow with 
 
 ### Projects
 
-**[NormaWatch](https://github.com/saidcveltran/normawatch-boe)** · Published · v1.8.0 · adding more regional gazettes · [Apify Store](https://apify.com/saidcveltran/normawatch-boe)<br>
-Every day, the new provisions of Spain's BOE and of the Andalucía, Galicia and Cataluña gazettes, as JSON and a table, with optional notices.<br>
+**[NormaWatch](https://github.com/saidcveltran/normawatch-boe)** · Published · v1.8.0 · [Apify Store](https://apify.com/saidcveltran/normawatch-boe)<br>
+Every day, the new provisions of Spain's BOE and of the Andalucía, Galicia and Cataluña gazettes, as JSON and a table, with optional notices. Now: more regional gazettes.<br>
 <sub>TypeScript · Apify</sub>
 
 **DUCKYS** · Private<br>
@@ -98,39 +76,17 @@ A Discord music bot with /play, autoplay and a web panel.<br>
 The site where I will bring all the projects together.<br>
 <sub>Astro · Cloudflare</sub>
 
-**Kinora** · In development · a template to animate characters<br>
+**Kinora** · In development<br>
 An open-source template to animate characters in Blender.<br>
 <sub>Blender · Python</sub>
 
 ### Lately
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Releases**
-
-<!-- releases:start -->
-- [normawatch-boe v1.8.0](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.8.0) – 2026-10-20
-- [normawatch-boe v1.7.0](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.7.0) – 2026-10-20
-- [normawatch-boe v1.6.0](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.6.0) – 2026-10-20
-- [normawatch-boe v1.5.3](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.5.3) – 2026-10-20
-- [normawatch-boe v1.5.2](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.5.2) – 2026-10-20
-<!-- releases:end -->
-
-</td>
-<td valign="top" width="50%">
-
-**Contributions**
-
-<!-- prs:start -->
-- [GeiserX/awesome-spain\#78](https://github.com/GeiserX/awesome-spain/pull/78) – Menciona el BOJA y el DOG en la entrada de normawatch-boe – 2026-10-20
-- [GeiserX/awesome-spain\#76](https://github.com/GeiserX/awesome-spain/pull/76) – Añade normawatch-boe, un Actor de Apify que lista las nuevas disposic… – 2026-10-20
-<!-- prs:end -->
-
-</td>
-</tr>
-</table>
+<!-- lately-en:start -->
+- Release [normawatch-boe v1.8.0](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.8.0) · 2026-10-20
+- Merged PR to [GeiserX/awesome-spain\#78](https://github.com/GeiserX/awesome-spain/pull/78): Menciona el BOJA y el DOG en la entrada de normawatch-boe · 2026-10-20
+- Merged PR to [GeiserX/awesome-spain\#76](https://github.com/GeiserX/awesome-spain/pull/76): Añade normawatch-boe, un Actor de Apify que lista las nueva… · 2026-10-20
+<!-- lately-en:end -->
 
 ### What I work with
 

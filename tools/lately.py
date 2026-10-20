@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fill the "Últimamente" / "Lately" lists of README.md from the public GitHub REST API.
+"""Fill the "Últimamente" / "Lately" list of README.md from the public GitHub REST API.
 
 Standard library only. Reads the token from the GITHUB_TOKEN environment variable, sends it only in
 the Authorization header and never prints it. Only public data is used.
@@ -19,6 +19,10 @@ README = Path(__file__).resolve().parent.parent / "README.md"
 LIMIT = 5
 API = "https://api.github.com"
 MD_SPECIAL = re.compile(r"([\\`*_{}\[\]()#+!|~>])")
+LABELS = {
+    "es": ("Versión", "PR aceptado en"),
+    "en": ("Release", "Merged PR to"),
+}
 
 
 def get(path, token, params=None):
@@ -39,26 +43,24 @@ def esc(text):
     return MD_SPECIAL.sub(r"\\\1", html.escape(text, quote=False))
 
 
-def short(text, n=70):
+def short(text, n=60):
     text = " ".join(str(text).split())
     return text if len(text) <= n else text[: n - 1].rstrip() + "…"
 
 
 def releases(token):
+    """Latest non-draft, non-prerelease release of each public, non-fork, non-archived repo."""
     repos = get(f"/users/{LOGIN}/repos", token, {"type": "owner", "per_page": 100})
     found = []
     for repo in repos:
         if repo.get("private") or repo.get("fork") or repo.get("archived"):
             continue
-        for rel in get(f"/repos/{repo['full_name']}/releases", token, {"per_page": LIMIT}):
-            if rel.get("draft") or rel.get("prerelease") or not rel.get("published_at"):
-                continue
-            found.append((rel["published_at"], repo["name"], rel["tag_name"], rel["html_url"]))
-    found.sort(reverse=True)
-    return [
-        f"- [{esc(name)} {esc(tag)}]({url}) – {date[:10]}"
-        for date, name, tag, url in found[:LIMIT]
-    ]
+        rels = get(f"/repos/{repo['full_name']}/releases", token, {"per_page": 10})
+        rels = [r for r in rels if not r.get("draft") and not r.get("prerelease") and r.get("published_at")]
+        if rels:
+            rel = max(rels, key=lambda r: r["published_at"])
+            found.append((rel["published_at"], "release", repo["name"], rel["tag_name"], rel["html_url"]))
+    return found
 
 
 def pulls(token):
@@ -70,12 +72,22 @@ def pulls(token):
         if not merged:
             continue
         repo = it["repository_url"].rsplit("/repos/", 1)[-1]
-        found.append((merged, repo, it["number"], it["html_url"], it["title"]))
-    found.sort(reverse=True)
-    return [
-        f"- [{esc(repo)}\\#{num}]({url}) – {esc(short(title))} – {date[:10]}"
-        for date, repo, num, url, title in found[:LIMIT]
-    ]
+        found.append((merged, "pr", repo, it["number"], it["html_url"], it["title"]))
+    return found
+
+
+def render(items, lang):
+    rel_label, pr_label = LABELS[lang]
+    lines = []
+    for it in items:
+        date = it[0][:10]
+        if it[1] == "release":
+            _, _, name, tag, url = it
+            lines.append(f"- {rel_label} [{esc(name)} {esc(tag)}]({url}) · {date}")
+        else:
+            _, _, repo, num, url, title = it
+            lines.append(f"- {pr_label} [{esc(repo)}\\#{num}]({url}): {esc(short(title))} · {date}")
+    return lines
 
 
 def fill(text, name, lines):
@@ -90,11 +102,12 @@ def main():
     token = os.environ.get("GITHUB_TOKEN")
     if not token:
         raise SystemExit("GITHUB_TOKEN is not set")
-    rel, prs = releases(token), pulls(token)
+    items = sorted(releases(token) + pulls(token), key=lambda i: i[0], reverse=True)[:LIMIT]
     text = README.read_text(encoding="utf-8")
-    text = fill(fill(text, "releases", rel), "prs", prs)
+    for lang in LABELS:
+        text = fill(text, f"lately-{lang}", render(items, lang))
     README.write_text(text, encoding="utf-8", newline="\n")
-    print("releases", len(rel), "prs", len(prs))
+    print("items", len(items))
 
 
 if __name__ == "__main__":
