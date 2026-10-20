@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" viewBox="0 0 480 250" role="img" aria-labelledby="card-t card-d">
+<title id="card-t">aiskaron.com (PRÓXIMAMENTE · COMING SOON)</title>
+<desc id="card-d">Mi centro personal con todos los proyectos de AIskaron, en un solo sitio. My personal hub for all the AIskaron projects, in one place.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3F78FF"/><stop offset=".45" stop-color="#1ECDE1"/><stop offset="1" stop-color="#00E68A"/></linearGradient><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050A14"/><stop offset="1" stop-color="#0A1424"/></linearGradient><linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1ECDE1" stop-opacity="0"/><stop offset=".5" stop-color="#1ECDE1"/><stop offset="1" stop-color="#1ECDE1" stop-opacity="0"/></linearGradient><clipPath id="cl"><rect width="480" height="250" rx="16"/></clipPath></defs>
+<style>.f{font-family:'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}.m{font-family:ui-monospace,'Cascadia Code','SF Mono',Consolas,'Liberation Mono',Menlo,monospace}@keyframes shim{from{transform:translateX(0)}to{transform:translateX(640px)}}.shim{animation:shim 6s ease-in-out infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<g clip-path="url(#cl)"><rect width="480" height="250" fill="url(#bg)"/>
+<rect class="shim" x="-160" y="0" width="160" height="3" fill="url(#sh)"/>
+<text class="f" x="28" y="56" font-size="26" font-weight="800" fill="url(#g)">aiskaron.com</text>
+<rect x="28" y="70" width="217" height="22" rx="11" fill="#1ECDE1" fill-opacity=".14" stroke="#1ECDE1" stroke-opacity=".7"/>
+<circle cx="42" cy="81" r="3.2" fill="#1ECDE1"/>
+<text class="f" x="52" y="85" font-size="10.5" font-weight="700" letter-spacing=".6" fill="#1ECDE1">PRÓXIMAMENTE · COMING SOON</text>
+<text class="f" x="28" y="124" font-size="13.5" fill="#EAF1FA">Mi centro personal con todos los proyectos de AIskaron,</text>
+<text class="f" x="28" y="143" font-size="13.5" fill="#EAF1FA">en un solo sitio.</text>
+<text class="f" x="28" y="176" font-size="12.5" font-style="italic" fill="#93A6BF">My personal hub for all the AIskaron projects,</text>
+<text class="f" x="28" y="194" font-size="12.5" font-style="italic" fill="#93A6BF">in one place.</text>
+<rect x="28" y="211" width="40" height="24" rx="6" fill="#0E1B2F" stroke="#16263F"/>
+<text class="m" x="48" y="227" text-anchor="middle" font-size="11.5" fill="#EAF1FA">web</text>
+<rect x="76.4" y="211" width="40" height="24" rx="6" fill="#0E1B2F" stroke="#16263F"/>
+<text class="m" x="97" y="227" text-anchor="middle" font-size="11.5" fill="#EAF1FA">hub</text>
+</g><rect x=".75" y=".75" width="478.5" height="248.5" rx="15.5" fill="none" stroke="#16263F" stroke-width="1.5"/>
+</svg>
