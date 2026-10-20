@@ -1,27 +1,18 @@
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="AIskaron · saidcveltran · Datos abiertos, bots y juegos" width="100%">
+  <img src="assets/banner-light.svg" alt="AIskaron · @saidcveltran · Automatizo fuentes oficiales y datos públicos. También hago bots para Discord y juegos 3D." width="100%">
 </picture>
 </p>
 
-<p align="center">
-Construyo herramientas para que los datos oficiales y públicos sean fáciles de buscar y de seguir con avisos. También hago bots de Discord y juegos y animación en 3D.
-<br><br>
-<sub>Proyectos bajo el nombre AIskaron · <a href="https://apify.com/saidcveltran">Apify Store</a> · <a href="https://dev.to/saidcveltran">dev.to</a> · <a href="#english">English</a></sub>
-</p>
-
-## Proyectos
-
 <p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-normawatch-dark.svg"><a href="https://github.com/saidcveltran/normawatch-boe"><img src="assets/card-normawatch-light.svg" alt="NormaWatch · Publicado · v1.8.0. Cada día, lo nuevo del BOE y los boletines de Andalucía, Galicia y Cataluña, con aviso. TypeScript · Apify" width="49.5%"></a></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-duckys-dark.svg"><img src="assets/card-duckys-light.svg" alt="DUCKYS · Privado. Bot de música para Discord, con /play, autoplay y panel web. Python" width="49.5%"></picture>
-<br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-aiskaron-dark.svg"><img src="assets/card-aiskaron-light.svg" alt="aiskaron.com · Próximamente. El sitio donde reuniré todos los proyectos. Astro · Cloudflare" width="49.5%"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kinora-dark.svg"><img src="assets/card-kinora-light.svg" alt="Kinora · En desarrollo. Plantilla de código abierto para animar personajes en Blender. Blender · Python" width="49.5%"></picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
+  <img src="assets/projects-light.svg" alt="Proyectos. NormaWatch (Publicado · v1.8.0): Te avisa cada día de lo nuevo en el BOE y en los boletines de Andalucía, Galicia y Cataluña. TypeScript · Apify; DUCKYS (Privado): Bot de música para Discord: /play, autoplay y panel web. Python; aiskaron.com (Próximamente): La web que reunirá todos mis proyectos en un solo sitio. Astro · Cloudflare; Kinora (En desarrollo): Plantilla de código abierto para animar personajes en Blender. Blender · Python" width="100%">
+</picture>
 </p>
 
-<sub>NormaWatch también está en la <a href="https://apify.com/saidcveltran/normawatch-boe">Apify Store</a>.</sub>
+<p align="center"><sub>NormaWatch: <a href="https://github.com/saidcveltran/normawatch-boe">repositorio</a> · <a href="https://apify.com/saidcveltran/normawatch-boe">Apify Store</a> · AIskaron es el nombre de mis proyectos · <a href="https://dev.to/saidcveltran">dev.to</a> · <a href="#english">English</a></sub></p>
 
 ## Últimamente
 
@@ -41,21 +32,23 @@ Construyo herramientas para que los datos oficiales y públicos sean fáciles de
 <details id="english">
 <summary>English version</summary>
 
-I build tools that make official, public data easy to search and to follow with alerts. I also make Discord bots and 3D games and animation.
-
-<sub>Projects under the name AIskaron · <a href="https://apify.com/saidcveltran">Apify Store</a> · <a href="https://dev.to/saidcveltran">dev.to</a></sub>
-
-### Projects
+I automate official sources and public data. I also make Discord bots and 3D games.
 
 <p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-normawatch-en-dark.svg"><a href="https://github.com/saidcveltran/normawatch-boe"><img src="assets/card-normawatch-en-light.svg" alt="NormaWatch · Published · v1.8.0. Every day, what is new in the BOE and the Andalucía, Galicia and Cataluña gazettes. TypeScript · Apify" width="49.5%"></a></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-duckys-en-dark.svg"><img src="assets/card-duckys-en-light.svg" alt="DUCKYS · Private. A Discord music bot with /play, autoplay and a web panel. Python" width="49.5%"></picture>
-<br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-aiskaron-en-dark.svg"><img src="assets/card-aiskaron-en-light.svg" alt="aiskaron.com · Coming soon. The site where I will bring all the projects together. Astro · Cloudflare" width="49.5%"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kinora-en-dark.svg"><img src="assets/card-kinora-en-light.svg" alt="Kinora · In development. An open-source template to animate characters in Blender. Blender · Python" width="49.5%"></picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="AIskaron · @saidcveltran · Automatizo fuentes oficiales y datos públicos. También hago bots para Discord y juegos 3D." width="100%">
+</picture>
 </p>
 
-<sub>NormaWatch is also on the <a href="https://apify.com/saidcveltran/normawatch-boe">Apify Store</a>.</sub>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-en-dark.svg">
+  <img src="assets/projects-en-light.svg" alt="Projects. NormaWatch (Published · v1.8.0): Alerts you every day to what is new in the BOE and the Andalucía, Galicia and Cataluña gazettes. TypeScript · Apify; DUCKYS (Private): A music bot for Discord: /play, autoplay and a web panel. Python; aiskaron.com (Coming soon): The website that will bring all my projects together in one place. Astro · Cloudflare; Kinora (In development): An open-source template to animate characters in Blender. Blender · Python" width="100%">
+</picture>
+</p>
+
+<p align="center"><sub>NormaWatch: <a href="https://github.com/saidcveltran/normawatch-boe">repository</a> · <a href="https://apify.com/saidcveltran/normawatch-boe">Apify Store</a> · AIskaron is the name of my projects · <a href="https://dev.to/saidcveltran">dev.to</a></sub></p>
 
 ### Lately
 
