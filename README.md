@@ -7,7 +7,7 @@
 
 ### Sobre mí
 
-AIskaron es el nombre de mis proyectos. Convierto boletines oficiales y webs públicas en datos limpios, listos para usar sin copiar nada a mano. En mis ratos libres hago bots para Discord, animaciones en Blender y juegos en Godot.
+AIskaron es el nombre de mis proyectos, reunidos en [aiskaron.com](https://aiskaron.com). Convierto boletines oficiales y webs públicas en datos limpios, listos para usar sin copiar nada a mano. En mis ratos libres hago bots para Discord, animaciones en Blender y juegos en Godot.
 
 ### Contacto
 
@@ -32,7 +32,7 @@ AIskaron es el nombre de mis proyectos. Convierto boletines oficiales y webs pú
 </picture>
 </p>
 
-<p align="center"><sub>NormaWatch: <a href="https://github.com/saidcveltran/normawatch-boe">repositorio</a> · <a href="https://apify.com/saidcveltran/normawatch-boe">Apify Store</a> · <a href="https://saidcveltran.itch.io">itch.io</a> · <a href="https://dev.to/saidcveltran">dev.to</a> · <a href="#english">English</a></sub></p>
+<p align="center"><sub><a href="https://aiskaron.com">aiskaron.com</a> · <a href="https://duckys.aiskaron.com">Duckys</a> · NormaWatch: <a href="https://github.com/saidcveltran/normawatch-boe">repositorio</a> · <a href="https://apify.com/saidcveltran/normawatch-boe">Apify Store</a> · <a href="https://saidcveltran.itch.io">itch.io</a> · <a href="https://dev.to/saidcveltran">dev.to</a> · <a href="#english">English</a></sub></p>
 
 ## Últimamente
 
@@ -54,7 +54,7 @@ AIskaron es el nombre de mis proyectos. Convierto boletines oficiales y webs pú
 
 ### About me
 
-AIskaron is the name of my projects. I turn official bulletins and public websites into clean data, ready to use without copying anything by hand. In my spare time I make Discord bots, Blender animations and Godot games.
+AIskaron is the name of my projects, all gathered at [aiskaron.com](https://aiskaron.com). I turn official bulletins and public websites into clean data, ready to use without copying anything by hand. In my spare time I make Discord bots, Blender animations and Godot games.
 
 ### Contact
 
@@ -79,7 +79,7 @@ AIskaron is the name of my projects. I turn official bulletins and public websit
 </picture>
 </p>
 
-<p align="center"><sub>NormaWatch: <a href="https://github.com/saidcveltran/normawatch-boe">repository</a> · <a href="https://apify.com/saidcveltran/normawatch-boe">Apify Store</a> · <a href="https://saidcveltran.itch.io">itch.io</a> · <a href="https://dev.to/saidcveltran">dev.to</a></sub></p>
+<p align="center"><sub><a href="https://aiskaron.com/en/">aiskaron.com</a> · <a href="https://duckys.aiskaron.com/?lang=en">Duckys</a> · NormaWatch: <a href="https://github.com/saidcveltran/normawatch-boe">repository</a> · <a href="https://apify.com/saidcveltran/normawatch-boe">Apify Store</a> · <a href="https://saidcveltran.itch.io">itch.io</a> · <a href="https://dev.to/saidcveltran">dev.to</a></sub></p>
 
 ## Lately
 
