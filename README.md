@@ -28,7 +28,7 @@ AIskaron es el nombre de mis proyectos, reunidos en [aiskaron.com](https://aiska
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
-  <img src="assets/projects-light.svg" alt="Proyectos. NormaWatch (Publicado · v1.8.0): Te avisa cada día de lo nuevo en el BOE y en los boletines de Andalucía, Galicia y Cataluña. TypeScript · Apify; DUCKYS (Privado): Bot de música para Discord: /play, autoplay y panel web. Python; aiskaron.com (Próximamente): La web que reunirá todos mis proyectos en un solo sitio. Astro · Cloudflare; Kinora (En desarrollo): Plantilla de código abierto para animar personajes en Blender. Blender · Python; Juego de robots (En desarrollo): Juego 3D de robots con piezas que se rompen y una IA que aprende cómo juegas. Lo hago con un amigo. Godot" width="100%">
+  <img src="assets/projects-light.svg" alt="Proyectos. NormaWatch (Publicado · v1.8.0): Te avisa cada día de lo nuevo en el BOE y en los boletines de Andalucía, Galicia y Cataluña. TypeScript · Apify; Duckys (Publicado · v1.1.0): Bot de música para Discord: /play, autoplay y panel web. Python; aiskaron.com (Publicado): La web que reúne todos mis proyectos en un solo sitio. Astro · Cloudflare; Kinora (En desarrollo): Plantilla de código abierto para animar personajes en Blender. Blender · Python; Juego de robots (En desarrollo): Juego 3D de robots con piezas que se rompen y una IA que aprende cómo juegas. Lo hago con un amigo. Godot" width="100%">
 </picture>
 </p>
 
@@ -75,7 +75,7 @@ AIskaron is the name of my projects, all gathered at [aiskaron.com](https://aisk
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/projects-en-dark.svg">
-  <img src="assets/projects-en-light.svg" alt="Projects. NormaWatch (Published · v1.8.0): Alerts you every day to what is new in the BOE and the Andalucía, Galicia and Cataluña gazettes. TypeScript · Apify; DUCKYS (Private): A music bot for Discord: /play, autoplay and a web panel. Python; aiskaron.com (Coming soon): The website that will bring all my projects together in one place. Astro · Cloudflare; Kinora (In development): An open-source template to animate characters in Blender. Blender · Python; Robot game (In development): A 3D robot game with breakable parts and an AI that learns how you play. Made with a friend. Godot" width="100%">
+  <img src="assets/projects-en-light.svg" alt="Projects. NormaWatch (Published · v1.8.0): Alerts you every day to what is new in the BOE and the Andalucía, Galicia and Cataluña gazettes. TypeScript · Apify; Duckys (Published · v1.1.0): A music bot for Discord: /play, autoplay and a web panel. Python; aiskaron.com (Published): The website that brings all my projects together in one place. Astro · Cloudflare; Kinora (In development): An open-source template to animate characters in Blender. Blender · Python; Robot game (In development): A 3D robot game with breakable parts and an AI that learns how you play. Made with a friend. Godot" width="100%">
 </picture>
 </p>
 
