@@ -37,7 +37,7 @@ AIskaron es el nombre de mis proyectos, reunidos en [aiskaron.com](https://aiska
 ## Últimamente
 
 <!-- lately-es:start -->
-- Versión [normawatch-boe v1.8.0](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.8.0) · 2026-10-20
+- Versión [normawatch-boe v1.9.0](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.9.0) · 2026-10-25
 - PR aceptado en [GeiserX/awesome-spain\#78](https://github.com/GeiserX/awesome-spain/pull/78): Menciona el BOJA y el DOG en la entrada de normawatch-boe · 2026-10-20
 - PR aceptado en [GeiserX/awesome-spain\#76](https://github.com/GeiserX/awesome-spain/pull/76): Añade normawatch-boe, un Actor de Apify que lista las nueva… · 2026-10-20
 <!-- lately-es:end -->
@@ -84,7 +84,7 @@ AIskaron is the name of my projects, all gathered at [aiskaron.com](https://aisk
 ## Lately
 
 <!-- lately-en:start -->
-- Release [normawatch-boe v1.8.0](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.8.0) · 2026-10-20
+- Release [normawatch-boe v1.9.0](https://github.com/saidcveltran/normawatch-boe/releases/tag/v1.9.0) · 2026-10-25
 - Merged PR to [GeiserX/awesome-spain\#78](https://github.com/GeiserX/awesome-spain/pull/78): Menciona el BOJA y el DOG en la entrada de normawatch-boe · 2026-10-20
 - Merged PR to [GeiserX/awesome-spain\#76](https://github.com/GeiserX/awesome-spain/pull/76): Añade normawatch-boe, un Actor de Apify que lista las nueva… · 2026-10-20
 <!-- lately-en:end -->
