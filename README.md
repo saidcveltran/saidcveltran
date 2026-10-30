@@ -22,7 +22,7 @@ AIskaron es el nombre de mis proyectos, reunidos en [aiskaron.com](https://aiska
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg">
-  <img src="assets/now-light.svg" alt="Ahora mismo: NormaWatch: Sumar más boletines autonómicos. Duckys: Preparar la versión 1.2.0." width="410">
+  <img src="assets/now-light.svg" alt="Ahora mismo: NormaWatch: Sumar más boletines autonómicos. Duckys: Mejorar el reproductor y los mensajes." width="410">
 </picture> <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <img src="assets/stack-light.svg" alt="Con qué trabajo: Datos abiertos: TypeScript, Node.js, Apify; Bots: Python, Discord; Web: Cloudflare" width="410">
@@ -32,7 +32,7 @@ AIskaron es el nombre de mis proyectos, reunidos en [aiskaron.com](https://aiska
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
-  <img src="assets/projects-light.svg" alt="Proyectos. NormaWatch (Publicado · v1.9.0): Actor gratuito de Apify que lista cada día las nuevas disposiciones del BOE y, de forma opcional, las oposiciones y los boletines de Andalucía, Galicia y Cataluña. TypeScript · Apify; Duckys (Publicado · v1.1.2): Bot de música gratuito para Discord: /play, autoplay, modo 24/7, radio, rol de DJ, panel web y 30 idiomas. Python · Discord" width="100%">
+  <img src="assets/projects-light.svg" alt="Proyectos. NormaWatch (Publicado · v1.9.0): Actor gratuito de Apify que lista cada día las nuevas disposiciones del BOE y, de forma opcional, las oposiciones y los boletines de Andalucía, Galicia y Cataluña. TypeScript · Apify; Duckys (Publicado · v1.2.0): Bot de música gratuito para Discord: /play, autoplay, modo 24/7, radio, rol de DJ, panel web y 30 idiomas. Python · Discord" width="100%">
 </picture>
 </p>
 
@@ -65,7 +65,7 @@ AIskaron is the name of my projects, all gathered at [aiskaron.com](https://aisk
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/now-en-dark.svg">
-  <img src="assets/now-en-light.svg" alt="Right now: NormaWatch: Add more regional gazettes. Duckys: Prepare version 1.2.0." width="410">
+  <img src="assets/now-en-light.svg" alt="Right now: NormaWatch: Add more regional gazettes. Duckys: Improve the player and messages." width="410">
 </picture> <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-en-dark.svg">
   <img src="assets/stack-en-light.svg" alt="What I work with: Open data: TypeScript, Node.js, Apify; Bots: Python, Discord; Web: Cloudflare" width="410">
@@ -75,7 +75,7 @@ AIskaron is the name of my projects, all gathered at [aiskaron.com](https://aisk
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/projects-en-dark.svg">
-  <img src="assets/projects-en-light.svg" alt="Projects. NormaWatch (Published · v1.9.0): Free Apify Actor that lists every day the new BOE dispositions and, optionally, public job calls and the gazettes of Andalucía, Galicia and Cataluña. TypeScript · Apify; Duckys (Published · v1.1.2): Free music bot for Discord: /play, autoplay, 24/7 mode, radio, DJ role, web dashboard and 30 languages. Python · Discord" width="100%">
+  <img src="assets/projects-en-light.svg" alt="Projects. NormaWatch (Published · v1.9.0): Free Apify Actor that lists every day the new BOE dispositions and, optionally, public job calls and the gazettes of Andalucía, Galicia and Cataluña. TypeScript · Apify; Duckys (Published · v1.2.0): Free music bot for Discord: /play, autoplay, 24/7 mode, radio, DJ role, web dashboard and 30 languages. Python · Discord" width="100%">
 </picture>
 </p>
 
