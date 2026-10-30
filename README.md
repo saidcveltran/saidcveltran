@@ -75,7 +75,7 @@ AIskaron is the name of my projects, all gathered at [aiskaron.com](https://aisk
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/projects-en-dark.svg">
-  <img src="assets/projects-en-light.svg" alt="Projects. NormaWatch (Published · v1.9.0): Free Apify Actor that lists every day the new BOE dispositions and, optionally, oposiciones and the gazettes of Andalucía, Galicia and Cataluña. TypeScript · Apify; Duckys (Published · v1.1.2): Free music bot for Discord: /play, autoplay, 24/7 mode, radio, DJ role, web dashboard and 30 languages. Python · Discord" width="100%">
+  <img src="assets/projects-en-light.svg" alt="Projects. NormaWatch (Published · v1.9.0): Free Apify Actor that lists every day the new BOE dispositions and, optionally, public job calls and the gazettes of Andalucía, Galicia and Cataluña. TypeScript · Apify; Duckys (Published · v1.1.2): Free music bot for Discord: /play, autoplay, 24/7 mode, radio, DJ role, web dashboard and 30 languages. Python · Discord" width="100%">
 </picture>
 </p>
 
