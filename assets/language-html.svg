@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52" role="img" aria-label="HTML: used in my projects">
+<title>HTML: used in my projects</title>
+<style>
+
+.surface { fill: #0d1117; } .surface-alt { fill: #161b22; } .frame { fill: none; stroke: #30363d; }
+.ink { fill: #e6edf3; } .muted { fill: #8b949e; } .accent { fill: #3fb950; } .on-accent { fill: #0d1117; }
+.rule { stroke: #30363d; } .accent-line { stroke: #3fb950; fill: none; } .accent-ring { stroke: #3fb950; fill: none; }
+@media (prefers-color-scheme: light) {
+  .surface { fill: #ffffff; } .surface-alt { fill: #f6f8fa; } .frame { stroke: #d1d9e0; }
+  .ink { fill: #1f2328; } .muted { fill: #59636e; } .accent { fill: #1a7f37; } .on-accent { fill: #ffffff; }
+  .rule { stroke: #d1d9e0; } .accent-line, .accent-ring { stroke: #1a7f37; }
+}
+
+.glyph path { fill: #7ee2a8; } .globe { fill: none; stroke: #7ee2a8; stroke-width: 1.7; }
+@media (prefers-color-scheme: light) { .glyph path { fill: #1a7f37; } .globe { stroke: #1a7f37; } }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect class="accent" opacity=".5" x="0" y="50" width="52" height="2"/><svg class="glyph" x="10" y="8" width="32" height="32" viewBox="0 0 24 24"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></svg>
+</svg>

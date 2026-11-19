@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52" role="img" aria-label="X: @aiskaron">
+<title>X: @aiskaron</title>
+<style>
+
+.surface { fill: #0d1117; } .surface-alt { fill: #161b22; } .frame { fill: none; stroke: #30363d; }
+.ink { fill: #e6edf3; } .muted { fill: #8b949e; } .accent { fill: #3fb950; } .on-accent { fill: #0d1117; }
+.rule { stroke: #30363d; } .accent-line { stroke: #3fb950; fill: none; } .accent-ring { stroke: #3fb950; fill: none; }
+@media (prefers-color-scheme: light) {
+  .surface { fill: #ffffff; } .surface-alt { fill: #f6f8fa; } .frame { stroke: #d1d9e0; }
+  .ink { fill: #1f2328; } .muted { fill: #59636e; } .accent { fill: #1a7f37; } .on-accent { fill: #ffffff; }
+  .rule { stroke: #d1d9e0; } .accent-line, .accent-ring { stroke: #1a7f37; }
+}
+
+.glyph path { fill: #7ee2a8; } .globe { fill: none; stroke: #7ee2a8; stroke-width: 1.7; }
+@media (prefers-color-scheme: light) { .glyph path { fill: #1a7f37; } .globe { stroke: #1a7f37; } }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect class="accent" opacity=".5" x="0" y="50" width="52" height="2"/><svg class="glyph" x="10" y="8" width="32" height="32" viewBox="0 0 24 24"><path d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z"/></svg>
+</svg>

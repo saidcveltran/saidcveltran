@@ -1,0 +1,14 @@
+{
+  // Cron-only Worker: no route and no workers.dev address, so it exposes no HTTP surface.
+  "name": "profile-refresh-scheduler",
+  "main": "src/index.mjs",
+  "compatibility_date": "2026-11-01",
+  "workers_dev": false,
+  "triggers": { "crons": ["*/15 * * * *"] },
+  "vars": {
+    "REPOSITORY": "saidcveltran/saidcveltran",
+    "WORKFLOW_FILE": "profile-data-refresh.yml",
+    "REF": "main"
+  },
+  "observability": { "enabled": true }
+}

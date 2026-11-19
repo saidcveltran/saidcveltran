@@ -1,0 +1,36 @@
+name: Profile data refresh
+
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"  # every 15 minutes, off the :00/:15/:30/:45 marks where GitHub drops or delays scheduled runs
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-writes
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - name: Regenerate the live assets from the public API
+        working-directory: tools
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 -m live_profile.refresh
+      - name: Commit when the data changed
+        run: |
+          if [ -z "$(git status --porcelain -- assets README.md)" ]; then
+            echo "no change"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets README.md
+            git commit -m "Refresh live data"
+            git push
+          fi

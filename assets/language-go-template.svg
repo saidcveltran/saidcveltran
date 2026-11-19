@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52" role="img" aria-label="Go Template: used in my projects">
+<title>Go Template: used in my projects</title>
+<style>
+
+.surface { fill: #0d1117; } .surface-alt { fill: #161b22; } .frame { fill: none; stroke: #30363d; }
+.ink { fill: #e6edf3; } .muted { fill: #8b949e; } .accent { fill: #3fb950; } .on-accent { fill: #0d1117; }
+.rule { stroke: #30363d; } .accent-line { stroke: #3fb950; fill: none; } .accent-ring { stroke: #3fb950; fill: none; }
+@media (prefers-color-scheme: light) {
+  .surface { fill: #ffffff; } .surface-alt { fill: #f6f8fa; } .frame { stroke: #d1d9e0; }
+  .ink { fill: #1f2328; } .muted { fill: #59636e; } .accent { fill: #1a7f37; } .on-accent { fill: #ffffff; }
+  .rule { stroke: #d1d9e0; } .accent-line, .accent-ring { stroke: #1a7f37; }
+}
+
+.glyph path { fill: #7ee2a8; } .globe { fill: none; stroke: #7ee2a8; stroke-width: 1.7; }
+@media (prefers-color-scheme: light) { .glyph path { fill: #1a7f37; } .globe { stroke: #1a7f37; } }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect class="accent" opacity=".5" x="0" y="50" width="52" height="2"/><svg class="glyph" x="10" y="8" width="32" height="32" viewBox="0 0 24 24"><path d="M9 3H7.2C5.9 3 5 3.9 5 5.2v4.3c0 .9-.5 1.5-1.4 1.5H3v2h.6c.9 0 1.4.6 1.4 1.5v4.3C5 20.1 5.9 21 7.2 21H9v-2H7.6c-.4 0-.6-.2-.6-.6v-4.3c0-1-.5-1.8-1.3-2.5.8-.7 1.3-1.5 1.3-2.5V5.6c0-.4.2-.6.6-.6H9z"/><path d="M15 3h1.8C18.1 3 19 3.9 19 5.2v4.3c0 .9.5 1.5 1.4 1.5H21v2h-.6c-.9 0-1.4.6-1.4 1.5v4.3c0 1.3-.9 2.2-2.2 2.2H15v-2h1.4c.4 0 .6-.2.6-.6v-4.3c0-1 .5-1.8 1.3-2.5-.8-.7-1.3-1.5-1.3-2.5V5.6c0-.4-.2-.6-.6-.6H15z"/></svg>
+</svg>

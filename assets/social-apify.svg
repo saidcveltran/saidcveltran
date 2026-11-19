@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52" role="img" aria-label="Apify: saidcveltran">
+<title>Apify: saidcveltran</title>
+<style>
+
+.surface { fill: #0d1117; } .surface-alt { fill: #161b22; } .frame { fill: none; stroke: #30363d; }
+.ink { fill: #e6edf3; } .muted { fill: #8b949e; } .accent { fill: #3fb950; } .on-accent { fill: #0d1117; }
+.rule { stroke: #30363d; } .accent-line { stroke: #3fb950; fill: none; } .accent-ring { stroke: #3fb950; fill: none; }
+@media (prefers-color-scheme: light) {
+  .surface { fill: #ffffff; } .surface-alt { fill: #f6f8fa; } .frame { stroke: #d1d9e0; }
+  .ink { fill: #1f2328; } .muted { fill: #59636e; } .accent { fill: #1a7f37; } .on-accent { fill: #ffffff; }
+  .rule { stroke: #d1d9e0; } .accent-line, .accent-ring { stroke: #1a7f37; }
+}
+
+.glyph path { fill: #7ee2a8; } .globe { fill: none; stroke: #7ee2a8; stroke-width: 1.7; }
+@media (prefers-color-scheme: light) { .glyph path { fill: #1a7f37; } .globe { stroke: #1a7f37; } }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect class="accent" opacity=".5" x="0" y="50" width="52" height="2"/><svg class="glyph" x="10" y="8" width="32" height="32" viewBox="0 0 200 200"><path d="M114.695 0H196.97C198.643 0 200 1.35671 200 3.03031V128.766C200 131.778 196.083 132.945 194.434 130.425L112.159 4.68953C110.841 2.67412 112.287 0 114.695 0Z"/><path d="M85.3048 0H3.0303C1.35671 0 0 1.35671 0 3.03031V128.766C0 131.778 3.91698 132.945 5.566 130.425L87.8405 4.68953C89.1593 2.67412 87.7134 0 85.3048 0Z"/><path d="M98.5909 100.668L5.12683 194.835C3.22886 196.747 4.58334 200 7.27759 200H192.8C195.483 200 196.842 196.77 194.967 194.852L102.908 100.685C101.726 99.4749 99.7824 99.4676 98.5909 100.668Z"/></svg>
+</svg>
