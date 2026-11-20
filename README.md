@@ -12,7 +12,7 @@ Public repositories:
 
 <!-- live:repos:start -->
 <p>
-<a href="https://github.com/saidcveltran/anaquel"><img src="assets/repo-anaquel.svg" alt="anaquel: v0.2.0" width="272"></a>
+<a href="https://github.com/saidcveltran/anaquel"><img src="assets/repo-anaquel.svg" alt="anaquel: v0.2.1" width="272"></a>
 <a href="https://github.com/saidcveltran/resma"><img src="assets/repo-resma.svg" alt="resma: v0.1.1" width="272"></a>
 <a href="https://github.com/saidcveltran/normawatch-boe"><img src="assets/repo-normawatch-boe.svg" alt="normawatch-boe: v1.9.0" width="272"></a>
 </p>
