@@ -28,7 +28,7 @@ text.display { font-family: "JetBrains Embedded", ui-monospace, "Cascadia Mono",
 <rect class="accent" x="0" y="0" width="252" height="3"/>
 <svg x="0" y="0" width="252" height="3" viewBox="0 0 252 3"><rect class="glint" style="animation-delay:-4.9s" x="0" y="0" width="70" height="3"/></svg>
 <text class="ink display" x="18" y="38" font-size="18">anaquel</text>
-<text class="accent" x="234" y="20" font-size="10" letter-spacing="1.4" text-anchor="end">ACTIVE</text>
+<text class="muted" x="234" y="20" font-size="10" letter-spacing="1.4" text-anchor="end">STEADY</text>
 <text class="accent display rise" x="18" y="80" font-size="30">v0.2.1</text><text class="muted rise" x="18" y="99" font-size="11.5">released 20 Nov</text>
 <text class="muted" x="18" y="122" font-size="12">Static documentation engine:</text><text class="muted" x="18" y="138" font-size="12">Libraries of Volumes built fro…</text>
 <rect class="accent" x="18" y="154" width="8" height="8"/><text class="ink" x="32" y="162" font-size="11.5">Rust</text>
